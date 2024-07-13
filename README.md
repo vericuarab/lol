@@ -1,1 +1,2 @@
 Instal cheat engine from https://www.cheatengine.org/ than install cheat engine. extract the files in a special folder after that open cheat engine press on the right corner on the monitor press on fishing planet while it runs in bacground than after that press memory view after that select injected dll than chose the file named EzFishing v4.5.12.dll after that in game press insert and you should be done
+(Patched)
